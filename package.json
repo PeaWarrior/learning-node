@@ -3,21 +3,18 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "engines": {
-    "node": "14.4.0",
-    "npm": "6.14.8"
-  },
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeaWarrior/learning-node.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.1",
-    "mongoose": "^5.10.12",
-    "nodemon": "^2.0.6",
-    "passport": "^0.4.1",
-    "passport-google-oauth20": "^2.0.0"
-  }
+  "bugs": {
+    "url": "https://github.com/PeaWarrior/learning-node/issues"
+  },
+  "homepage": "https://github.com/PeaWarrior/learning-node#readme"
 }
