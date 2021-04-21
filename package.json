@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/PeaWarrior/learning-node/issues"
   },
-  "homepage": "https://github.com/PeaWarrior/learning-node#readme"
+  "homepage": "https://github.com/PeaWarrior/learning-node#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
